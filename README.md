@@ -17,3 +17,5 @@ TypeScript · C# / .NET · Python · Next.js · Node.js · Supabase · PostgreSQ
 ## Currently
 
 Building Märchenfuchs, an app for personalized bedtime stories, together with two friends.
+
+<!-- -->
