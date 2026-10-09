@@ -4,6 +4,7 @@ Student at HTL Mössingerstraße in Klagenfurt, Austria, and co-founder of Racep
 I build tools for AI coding agents, Windows utilities and apps. Coding agents like Claude Code and Codex write much of the code; I plan what gets built, define how it must behave and test it in the real program until it works.
 
 **Open for:** summer internships 2027 · freelance projects · conversations about AI agents
+
 **Contact:** [clemens@jele.at](mailto:clemens@jele.at) · [jele.at](https://jele.at) · [LinkedIn](https://www.linkedin.com/in/clemens-jele-a18b373a2/)
 
 ## What I work on
